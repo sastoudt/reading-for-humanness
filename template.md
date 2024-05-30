@@ -32,7 +32,9 @@ We will try to standardize these at some point, but for now, use your judgement 
 
 **If the contribution is in a full collection:**
 
-*File name for collection*: Collection_name_YearPublished.md
+*Folder name for collection*: Collection_name_YearPublished
+
+*File name for collection*: README.md (this will contain the table of contents that will link to each piece's individual Markdown file)
 
 *File name for piece in collection*: Collection_name_AuthorLastName_YearPublished_title_with_underscores.md
 
