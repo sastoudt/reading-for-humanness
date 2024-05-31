@@ -1,6 +1,6 @@
 ---
-name: Add issue for full collection (poetry/fiction)
-about: Add issue for full collection (poetry/fiction)
+name: Add issue for full collection (poetry/fiction/zines)
+about: Add issue for full collection (poetry/fiction/zines)
 title: Title of Contribution
 labels: ''
 assignees: ''

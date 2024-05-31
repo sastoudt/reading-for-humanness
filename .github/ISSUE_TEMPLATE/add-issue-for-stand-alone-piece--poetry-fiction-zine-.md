@@ -1,6 +1,6 @@
 ---
-name: Add issue for stand alone piece (poetry/fiction)
-about: Add issue for stand alone piece (poetry/fiction)
+name: Add issue for stand alone piece (poetry/fiction/zine)
+about: Add issue for stand alone piece (poetry/fiction/zine)
 title: Title of Contribution
 labels: ''
 assignees: ''
