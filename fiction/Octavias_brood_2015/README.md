@@ -1,0 +1,23 @@
+
+- [Revolution shuffle]() / Bao Phi
+- [The token superhero]() / David F. Walker
+- [the river]() / adrienne maree brown
+- [Evidence]() / Alexis Pauline Gumbs
+- [Black angel]() / Walidah Imarisha
+- [The long memory]() / Morrigan Phillips
+- [Small and bright]() / Autumn Brown
+- [In spite of darkness]() / Alixa Garcia
+- [Hollow]() / Mia Mingus
+- [Lalibela]() / Gabriel Teodros
+- [Little brown mouse]() / Tunde Olaniran
+- [Sanford and sun]() / Dawolu Jabari Anderson
+- [Runway blackout]() / Tara Betts
+- [Kafka's last laugh]() / Vagabond
+- [22XX: one-shot]() / Jelani Wilson
+- [Manhunters]() / Kalamu ya Salaam
+- [Aftermath]() / LeVar Burton
+- [Fire on the mountain]() / Terry Bisson
+- [Homing instinct]() / Dani McClain
+- [children who fly]() / Leah Lakshmi Piepzna-Samarasinha
+- [Star Wars and the American imagination]() / Mumia Abu-Jamal
+- [The only lasting truth]() / Tananarive Due
