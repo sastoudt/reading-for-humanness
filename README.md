@@ -3,6 +3,9 @@
 ### Fall 2025, Spring 2026 Dinner Seminar at Bucknell University
 **Data Tales: Exploring Speculative Thinking as Statistical Thinking**
 
+[Check out the preliminary reading list here](https://github.com/sastoudt/reading-for-humanness/tree/main/dinner-seminar)
+
+
 Speculative thinking is part of the discovery process, and it plays a big role in statistics and data science. Speculative thinking is also necessary for world building; some of the most engaging creative works come from a particularly compelling “what if” scenario.
 
 In this dinner seminar, we will try to find connections between speculative thinking in creative writing and speculative thinking in the fields of statistics, data, and computing by discussing data use (and misuse) “in the wild” and creative works that engage with the ethics related to data-related themes. We will start by reading some speculative fiction short stories together and discussing how they relate to data-related themes. Then the seminar will become more of a choose-your-own adventure, with students choosing their own reading material each week, drawn from speculative fiction collections, essays, and journalistic articles that are related to the humanness behind data and computing. 
