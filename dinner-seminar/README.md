@@ -32,6 +32,8 @@ Choose your own adventure from [Octavia's Brood: Science Fiction Stories from So
 
 Choose your own adventure: contribute to GitHub or do some creative writing
 
+Prep: get GitHub account setup OR read at least two things from the latest issue of [The Dodge](https://www.thedodgemag.com/)
+
 ### Week 8
 
 *Fall Break*
@@ -50,7 +52,7 @@ Choose your own adventure: [Logic Magazine](https://logicmag.io/#issues)
 
 ### Week 12
 
-The Markup + Reading Guide TBA
+[The Markup](https://themarkup.org/) + Reading Guide TBA
 
 ### Week 13
 
@@ -63,8 +65,6 @@ The Markup + Reading Guide TBA
 ### Week 15
 
 Choose your own adventure: Data Science by Design's [Future of Data Science](https://datasciencebydesign.org/book) (2022)
-
-
 
 
 ## Tenative Reading List - Spring 2026
@@ -111,7 +111,7 @@ Choose your own adventure: [Logic Magazine](https://logicmag.io/#issues)
 
 ### Week 9
 
-Choose your own adventure: contribute to GitHub or do some creative writing
+Prep: get GitHub account setup OR read at least two things from the latest issue of [The Dodge](https://www.thedodgemag.com/)
 
 ### Week 10
 
