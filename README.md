@@ -10,6 +10,6 @@ Use this repository to:
 
 How to contribute:
 
-- If you have a piece or collection in mind, file an issue (there are templates to create these issues)). For now, we limit this to poetry/fiction/zines. We will have more guidance for journalism [coming soon](https://github.com/sastoudt/reading-for-humanness/issues/2). It's okay if you aren't totally sure if it will have anything that could be used in the classroom. If it seems promising, it's worth a look.
+- If you have a piece or collection in mind, file an issue (there are templates to create these issues)). For now, we limit this to poetry/fiction/zines/essays/journalism. It's okay if you aren't totally sure if it will have anything that could be used in the classroom. If it seems promising, it's worth a look.
 - Look at the [issues](https://github.com/sastoudt/reading-for-humanness/issues) and start making the folders/files necessary to make progress towards them.
 - Look at the [issues](https://github.com/sastoudt/reading-for-humanness/issues) and read a piece (or many) that still need summary/tag information.
