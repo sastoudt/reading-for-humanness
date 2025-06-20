@@ -1,5 +1,3 @@
 # Reading for Humanness: Journalism
 
-TBA
-
-journalism about statistics/data/algorithms in the context of justice with reading guides 
+journalism about statistics/data/algorithms in the context of justice (some may include reading guides - TBA)
