@@ -89,7 +89,7 @@ Choose your own adventure: Data Science by Design's [Future of Data Science](htt
 
 ### Week 3
 
-[The Blindfold]([https://www.penguinrandomhouse.com/books/688126/the-last-catastrophe-by-allegra-hyde/](https://www.lightspeedmagazine.com/fiction/the-blindfold/)) by Tobias S. Buckell (2022)
+[The Blindfold](https://www.lightspeedmagazine.com/fiction/the-blindfold/) by Tobias S. Buckell (2022)
 
 in [A People's Future of the United States](https://www.penguinrandomhouse.com/books/561572/a-peoples-future-of-the-united-states-by-edited-by-victor-lavalle-and-john-joseph-adams/) (2019)
 
