@@ -4,7 +4,9 @@
 
 [The Future is a Click Away](https://bombmagazine.org/articles/2022/11/21/the-future-is-a-click-away/) by Allegra Hyde (2022)
 
-in [The Last Catastrophe](https://www.penguinrandomhouse.com/books/688126/the-last-catastrophe-by-allegra-hyde/) (2023)
+in [The Last Catastrophe](https://www.penguinrandomhouse.com/books/688126/the-last-catastrophe-by-allegra-hyde/) (2023) 
+
+see companion playlist [here](https://largeheartedboy.com/2023/04/10/allegra-hydes-playlist-for-her-story-collection-the-last-catastrophe/)
 
 ### Week 2
 
