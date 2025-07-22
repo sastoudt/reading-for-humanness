@@ -8,6 +8,8 @@ in [The Last Catastrophe](https://www.penguinrandomhouse.com/books/688126/the-la
 
 see companion playlist [here](https://largeheartedboy.com/2023/04/10/allegra-hydes-playlist-for-her-story-collection-the-last-catastrophe/)
 
+If you like this, check out [Labor Pains](https://harpers.org/archive/2023/07/dear-employee-allegra-hyde/) by Allegra Hyde (2023).
+
 ### Week 2
 
 Pick 2 of the 3 by Ted Chiang:
