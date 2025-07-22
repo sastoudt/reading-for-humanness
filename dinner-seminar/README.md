@@ -28,6 +28,8 @@ Pick 2 of the 3 by Ted Chiang:
 
 [Ghosts](https://www.thebeliever.net/ghosts/) by Vauhini Vara (2021)
 
+Optional: [My Decade in Google Searches](https://www.nytimes.com/interactive/2019/12/27/opinion/sunday/decade-google-search.html) by Vauhini Vara (2019)
+
 ### Week 5
 
 [Your Future Inbox](https://joinreboot.org/p/your-future-inbox) by Lila Schroff (2023)
