@@ -30,6 +30,8 @@ Pick 2 of the 3 by Ted Chiang:
 
 [Ghosts](https://www.thebeliever.net/ghosts/) by Vauhini Vara (2021)
 
+[Confessions of a Viral AI Writer](https://www.wired.com/story/confessions-viral-ai-writer-chatgpt/) by Vauhini Vara (2023)
+
 Optional: [My Decade in Google Searches](https://www.nytimes.com/interactive/2019/12/27/opinion/sunday/decade-google-search.html) by Vauhini Vara (2019)
 
 ### Week 5
