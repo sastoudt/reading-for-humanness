@@ -89,6 +89,8 @@ Choose your own adventure: Data Science by Design's [Future of Data Science](htt
 
 [Empathy Hour](https://slate.com/technology/2022/03/empathy-hour-matt-bell-short-story.html) by Matt Bell (2022)
 
+Optional follow-up reading: [Home Sweet NewHome](https://www.amacad.org/daedalus/home-sweet-newhome) by Matt Bell (2025)
+
 ### Week 2
 
 [Is compassion fatigue inevitable in an age of 24-hour news?](https://www.theguardian.com/news/2018/aug/02/is-compassion-fatigue-inevitable-in-an-age-of-24-hour-news) by Elisa Gabbert (2018)
