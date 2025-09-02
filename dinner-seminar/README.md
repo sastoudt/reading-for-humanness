@@ -64,11 +64,11 @@ Choose your own adventure: [Logic Magazine](https://logicmag.io/#issues)
 
 ### Week 11
 
-[Dream Factory](https://clarkesworldmagazine.com/egan_04_22/) by Greg Egan (2022)
+[The Markup](https://themarkup.org/) + Reading Guide TBA
 
 ### Week 12
 
-[The Markup](https://themarkup.org/) + Reading Guide TBA
+[Dream Factory](https://clarkesworldmagazine.com/egan_04_22/) by Greg Egan (2022)
 
 ### Week 13
 
