@@ -4,7 +4,7 @@
 - Zoo Suicides
 - Afterglow
 - Chevalier
-- The Future Is a Click Away
+- [The Future Is a Click Away](https://github.com/sastoudt/reading-for-humanness/blob/main/fiction/The_Last_Catastrophe_2023/Hyde_2023_The_Future_Is_A_Click_Away.md)
 - Endangered
 - Loving Homes for Lost & Broken Men
 - Cougar
