@@ -16,7 +16,7 @@ Pick 2 of the 3 by Ted Chiang:
 
 [What's Expected of Us](https://bucknell.on.worldcat.org/oclc/208398205) (2005)
 
-[The Great Silence](http://supercommunity.e-flux.com/authors/ted-chiang/) (2015)
+[The Great Silence](http://supercommunity.e-flux.com/authors/ted-chiang/) (2015) ...go behind the scenes [here](https://www.youtube.com/watch?v=Y7rkojpnwOE)
 
 [Exhalation](https://www.lightspeedmagazine.com/fiction/exhalation/) (2008)
 
