@@ -64,7 +64,12 @@ Choose your own adventure: [Logic Magazine](https://logicmag.io/#issues)
 
 ### Week 11
 
-[The Markup](https://themarkup.org/) + Reading Guide TBA
+[The Markup](https://themarkup.org/) Reading Guide
+
+- Make a copy of the reading guide by clicking [here](https://docs.google.com/document/d/1_8PuoZk235ZF3iGlBovfZu4cvXIsbXcQGwGi5_SvcEs/copy) and share it with me (make sure I have editing privileges). 
+- Before class complete the "Do this first!" and "Before you read" sections of the reading guide.
+- Then read the article associated with the reading guide [here](https://themarkup.org/machine-learning/2023/04/27/false-alarm-how-wisconsin-uses-race-and-income-to-label-students-high-risk )
+- Then we'll work through more of the reading guide in class.
 
 ### Week 12
 
