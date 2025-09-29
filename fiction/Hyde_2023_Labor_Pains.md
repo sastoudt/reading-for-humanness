@@ -12,7 +12,7 @@ Harper's Magazine, 2023
 
 # Link to piece (if possible)
 
-[insert here](https://harpers.org/archive/2023/07/dear-employee-allegra-hyde/)
+[https://harpers.org/archive/2023/07/dear-employee-allegra-hyde/]() 
 
 ## Summary (one to two paragraphs)
 
