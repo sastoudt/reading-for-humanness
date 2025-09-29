@@ -48,7 +48,7 @@ Optional: [My Decade in Google Searches](https://www.nytimes.com/interactive/201
 
 Choose your own adventure: contribute to GitHub or do some creative writing
 
-Prep: get GitHub account setup OR read at least two things from the latest issue of [The Dodge](https://www.thedodgemag.com/)
+Prep: get GitHub account setup and watch training video [here](https://drive.google.com/file/d/1-OGjb-DnBHuu8GW8xqRiv_3FlRxnOvo2/view?usp=sharing) OR read at least two things from the latest issue of [The Dodge](https://www.thedodgemag.com/) and fill out the usual Google Form
 
 ### Week 8
 
