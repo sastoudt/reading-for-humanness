@@ -50,6 +50,8 @@ Choose your own adventure: contribute to GitHub or do some creative writing
 
 Prep: get GitHub account setup and watch training video [here](https://drive.google.com/file/d/1-OGjb-DnBHuu8GW8xqRiv_3FlRxnOvo2/view?usp=sharing) OR read at least two things from the latest issue of [The Dodge](https://www.thedodgemag.com/) and fill out the usual Google Form
 
+If you are doing the creative writing option, go [here](https://sastoudt.shinyapps.io/eco_data_driven_detail/) to explore and respond to at least two different writing prompts during class.
+
 ### Week 8
 
 *Fall Break*
