@@ -110,7 +110,9 @@ in [A People's Future of the United States](https://www.penguinrandomhouse.com/b
 
 ### Week 4
 
-Choose your own adventure from [Octavia's Brood: Science Fiction Stories from Social Justice Movements](https://ebookcentral.proquest.com/lib/bucknell/detail.action?docID=1996052) (2015) 
+[A Death Sentence: Native Americans Shut Out of the Nation’s Liver Transplant System](https://themarkup.org/organ-failure/2024/02/08/a-death-sentence-native-americans-shut-out-of-the-nations-liver-transplant-system) by Annie Gilbertson and Ben Tanen (2024)
+
+[How We Investigated Racial Disparities in Liver Transplants](https://themarkup.org/show-your-work/2024/02/08/how-we-investigated-racial-disparities-in-liver-transplants) by Annie Gilbertson and Ben Tanen (2024)
 
 ### Week 5
 
@@ -130,25 +132,28 @@ Choose your own adventure from [Octavia's Brood: Science Fiction Stories from So
 
 ### Week 9
 
-Prep: get GitHub account setup OR read at least two things from the latest issue of [The Dodge](https://www.thedodgemag.com/)
+Choose your own adventure: [Kernel Magazine](https://www.kernelmag.io/)
+
+Feel free to pick something from any issue.
 
 ### Week 10
 
-Choose your own adventure: [Logic Magazine](https://logicmag.io/#issues)
+TBA
 
 ### Week 11
+
+TBA
+
+### Week 12
+
+Choose your own adventure from [Octavia's Brood: Science Fiction Stories from Social Justice Movements](https://ebookcentral.proquest.com/lib/bucknell/detail.action?docID=1996052) (2015) 
+
+### Week 13
 
 [The Tunnel Under the World](https://www.gutenberg.org/files/31979/31979-h/31979-h.htm) by Frederik Pohl (1955)
 
 [This, but Again](https://slate.com/technology/2022/06/this-but-again-david-iserson-short-story.html) by David Iserson (2022)
 
-### Week 12
-
-Choose your own adventure: [The Markup](https://themarkup.org/) + make a reading guide
-
-### Week 13
-
-Swap reading guides
 
 ### Week 14
 
