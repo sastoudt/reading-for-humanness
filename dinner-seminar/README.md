@@ -1,3 +1,74 @@
+## Tentative Reading List - Spring 2026
+
+### Week 1
+
+[Empathy Hour](https://slate.com/technology/2022/03/empathy-hour-matt-bell-short-story.html) by Matt Bell (2022)
+
+Optional follow-up reading: [Home Sweet NewHome](https://www.amacad.org/daedalus/home-sweet-newhome) by Matt Bell (2025)
+
+### Week 2
+
+[Is compassion fatigue inevitable in an age of 24-hour news?](https://www.theguardian.com/news/2018/aug/02/is-compassion-fatigue-inevitable-in-an-age-of-24-hour-news) by Elisa Gabbert (2018)
+
+### Week 3
+
+[The Blindfold](https://www.lightspeedmagazine.com/fiction/the-blindfold/) by Tobias S. Buckell (2022)
+
+in [A People's Future of the United States](https://www.penguinrandomhouse.com/books/561572/a-peoples-future-of-the-united-states-by-edited-by-victor-lavalle-and-john-joseph-adams/) (2019)
+
+### Week 4
+
+[A Death Sentence: Native Americans Shut Out of the Nation’s Liver Transplant System](https://themarkup.org/organ-failure/2024/02/08/a-death-sentence-native-americans-shut-out-of-the-nations-liver-transplant-system) by Annie Gilbertson and Ben Tanen (2024)
+
+[How We Investigated Racial Disparities in Liver Transplants](https://themarkup.org/show-your-work/2024/02/08/how-we-investigated-racial-disparities-in-liver-transplants) by Annie Gilbertson and Ben Tanen (2024)
+
+### Week 5
+
+[Racial fictions, biological facts: Expanding the sociological imagination through speculative methods](https://catalystjournal.org/index.php/catalyst/article/view/28798/21398) by Ruja Benjamin (2016)
+
+### Week 6
+
+[The New Artificial Intelligentsia](https://lareviewofbooks.org/article/the-new-artificial-intelligentsia/) by Ruja Benjamin (2024)
+
+### Week 7
+
+[An Age of Hyperabundance](https://www.nplusonemag.com/issue-47/essays/an-age-of-hyperabundance/) by Laura Preston (2024)
+
+### Week 8
+
+*Spring Break*
+
+### Week 9
+
+Choose your own adventure: [Kernel Magazine](https://www.kernelmag.io/)
+
+Feel free to pick something from any issue.
+
+### Week 10
+
+TBA
+
+### Week 11
+
+TBA
+
+### Week 12
+
+Choose your own adventure from [Octavia's Brood: Science Fiction Stories from Social Justice Movements](https://ebookcentral.proquest.com/lib/bucknell/detail.action?docID=1996052) (2015) 
+
+### Week 13
+
+[The Tunnel Under the World](https://www.gutenberg.org/files/31979/31979-h/31979-h.htm) by Frederik Pohl (1955)
+
+[This, but Again](https://slate.com/technology/2022/06/this-but-again-david-iserson-short-story.html) by David Iserson (2022)
+
+
+### Week 14
+
+Choose your own adventure: Data Science by Design's [Our Environment](https://datasciencebydesign.org/book-2) (2023)
+
+
+
 ## Tentative Reading List - Fall 2025
 
 ### Week 1
@@ -88,75 +159,5 @@ Choose your own adventure: [Logic Magazine](https://logicmag.io/#issues)
 ### Week 15
 
 Choose your own adventure: Data Science by Design's [Future of Data Science](https://datasciencebydesign.org/book) (2022)
-
-
-## Tentative Reading List - Spring 2026
-
-### Week 1
-
-[Empathy Hour](https://slate.com/technology/2022/03/empathy-hour-matt-bell-short-story.html) by Matt Bell (2022)
-
-Optional follow-up reading: [Home Sweet NewHome](https://www.amacad.org/daedalus/home-sweet-newhome) by Matt Bell (2025)
-
-### Week 2
-
-[Is compassion fatigue inevitable in an age of 24-hour news?](https://www.theguardian.com/news/2018/aug/02/is-compassion-fatigue-inevitable-in-an-age-of-24-hour-news) by Elisa Gabbert (2018)
-
-### Week 3
-
-[The Blindfold](https://www.lightspeedmagazine.com/fiction/the-blindfold/) by Tobias S. Buckell (2022)
-
-in [A People's Future of the United States](https://www.penguinrandomhouse.com/books/561572/a-peoples-future-of-the-united-states-by-edited-by-victor-lavalle-and-john-joseph-adams/) (2019)
-
-### Week 4
-
-[A Death Sentence: Native Americans Shut Out of the Nation’s Liver Transplant System](https://themarkup.org/organ-failure/2024/02/08/a-death-sentence-native-americans-shut-out-of-the-nations-liver-transplant-system) by Annie Gilbertson and Ben Tanen (2024)
-
-[How We Investigated Racial Disparities in Liver Transplants](https://themarkup.org/show-your-work/2024/02/08/how-we-investigated-racial-disparities-in-liver-transplants) by Annie Gilbertson and Ben Tanen (2024)
-
-### Week 5
-
-[Racial fictions, biological facts: Expanding the sociological imagination through speculative methods](https://catalystjournal.org/index.php/catalyst/article/view/28798/21398) by Ruja Benjamin (2016)
-
-### Week 6
-
-[The New Artificial Intelligentsia](https://lareviewofbooks.org/article/the-new-artificial-intelligentsia/) by Ruja Benjamin (2024)
-
-### Week 7
-
-[An Age of Hyperabundance](https://www.nplusonemag.com/issue-47/essays/an-age-of-hyperabundance/) by Laura Preston (2024)
-
-### Week 8
-
-*Spring Break*
-
-### Week 9
-
-Choose your own adventure: [Kernel Magazine](https://www.kernelmag.io/)
-
-Feel free to pick something from any issue.
-
-### Week 10
-
-TBA
-
-### Week 11
-
-TBA
-
-### Week 12
-
-Choose your own adventure from [Octavia's Brood: Science Fiction Stories from Social Justice Movements](https://ebookcentral.proquest.com/lib/bucknell/detail.action?docID=1996052) (2015) 
-
-### Week 13
-
-[The Tunnel Under the World](https://www.gutenberg.org/files/31979/31979-h/31979-h.htm) by Frederik Pohl (1955)
-
-[This, but Again](https://slate.com/technology/2022/06/this-but-again-david-iserson-short-story.html) by David Iserson (2022)
-
-
-### Week 14
-
-Choose your own adventure: Data Science by Design's [Our Environment](https://datasciencebydesign.org/book-2) (2023)
 
 
