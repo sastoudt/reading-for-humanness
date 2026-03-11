@@ -46,11 +46,13 @@ Feel free to pick something from any issue.
 
 ### Week 10
 
-TBA
+[Affordances](https://slate.com/technology/2019/10/affordances-cory-doctorow-sf-story-algorithmic-bias-facial-recognition.html) by Cory Doctorow (2019)
+
+[A Powerhouse Writer Found One Word to Change the Debate About Tech](https://www.nytimes.com/2025/10/05/books/review/cory-doctorow-enshittification.html) by Joseph Bernstein (2025)
 
 ### Week 11
 
-TBA
+[The Book of Martha](https://www.sevenstories.com/blogs/102-an-exclusive-short-story-from-octavia-butler-in-celebration-of-her-birthday) by Octavia Butler (2003)
 
 ### Week 12
 
@@ -65,8 +67,11 @@ Choose your own adventure from [Octavia's Brood: Science Fiction Stories from So
 
 ### Week 14
 
-Choose your own adventure: Data Science by Design's [Our Environment](https://datasciencebydesign.org/book-2) (2023)
+[Algorithm America](https://countercraft.substack.com/p/algorithm-america-a-short-story) by Lincoln Michel (2023)
 
+### Week 15
+
+Choose your own adventure: Data Science by Design's [Our Environment](https://datasciencebydesign.org/book-2) (2023)
 
 
 ## Tentative Reading List - Fall 2025
