@@ -71,6 +71,8 @@ Choose your own adventure from [Octavia's Brood: Science Fiction Stories from So
 
 [Algorithm America](https://countercraft.substack.com/p/algorithm-america-a-short-story) by Lincoln Michel (2023)
 
++ pick something from [Lincoln Michel's substack](https://countercraft.substack.com/archive?sort=new) that interests you
+
 ### Week 15
 
 Choose your own adventure: Data Science by Design's [Our Environment](https://datasciencebydesign.org/book-2) (2023)
