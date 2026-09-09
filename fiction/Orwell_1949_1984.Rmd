@@ -1,0 +1,25 @@
+---
+title: "Orwell_1949_1984"
+output: html_document
+---
+
+Title
+1984
+
+Author(s)
+George Orwell
+
+Venue and Year Published
+Book, June 8 1949
+
+Link to piece (if possible)
+https://en.wikipedia.org/wiki/Nineteen_Eighty-Four
+
+Summary (one to two paragraphs)
+insert here
+
+Tags (statistics/data/ethical concepts that are covered)
+We will try to standardize these at some point, but for now, use your judgement on key words.
+
+
+
