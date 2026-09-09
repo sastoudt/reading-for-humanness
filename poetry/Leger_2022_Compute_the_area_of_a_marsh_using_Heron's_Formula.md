@@ -1,19 +1,19 @@
 
 # Title
 
-A Tunnel Under the World
+Compute the area of a marsh using Heron's Formula
 
 # Author(s)
 
-Multiple Authors/Contributors
+S.A. Leger
 
 # Venue and Year Published
 
-Wikipedia//Most Recent Update is in 2026
+The Dodge, April 4 2022
 
 # Link to piece (if possible)
 
-https://en.wikipedia.org/wiki/The_Tunnel_under_the_World
+https://thedodgemagarchive.com/saleger1
 
 ## Summary (one to two paragraphs)
 
@@ -24,10 +24,10 @@ insert here
 We will try to standardize these at some point, but for now, use your judgement on key words. 
 
 =====
-  
-  **If the contribution is in a full collection:**
-  
-  *Folder name for collection*: Collection_name_YearPublished
+
+**If the contribution is in a full collection:**
+
+*Folder name for collection*: Collection_name_YearPublished
 
 *File name for collection*: README.md (this will contain the table of contents that will link to each piece's individual Markdown file)
 
