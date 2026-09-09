@@ -1,0 +1,15 @@
+- Mobilization / Allegra Hyde
+- Disruptions
+- The Tough Part
+- Zoo Suicides
+- Afterglow
+- Chevalier
+- [The Future Is a Click Away](https://github.com/sastoudt/reading-for-humanness/blob/main/fiction/The_Last_Catastrophe_2023/Hyde_2023_The_Future_Is_A_Click_Away.md)
+- Endangered
+- Loving Homes for Lost & Broken Men
+- Cougar
+- Frights
+- Democracy in America
+- Adjustments
+- Colonel Merryweather's Intergalactic Finishing School for Young Ladies of Grace & Good Nature
+- The Eaters

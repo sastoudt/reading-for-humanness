@@ -1,6 +1,6 @@
 ---
-name: Add issue for full collection (poetry/fiction/zines)
-about: Add issue for full collection (poetry/fiction/zines)
+name: Add issue for full collection (poetry/fiction/zines/essays)
+about: Add issue for full collection (poetry/fiction/zines/essays)
 title: Title of Contribution
 labels: ''
 assignees: ''
@@ -10,7 +10,7 @@ assignees: ''
 # [Title of Contribution](url here)
 
 ### Setup 
-- [ ] Add a folder  in the appropriate directory (poetry, fiction, journalism) (see [template and naming conventions](https://github.com/sastoudt/reading-for-humanness/blob/main/template.md))
+- [ ] Add a folder in the appropriate directory (e.g., poetry) (see [template and naming conventions](https://github.com/sastoudt/reading-for-humanness/blob/main/template.md))
 - [ ] Add a README.md file to that new folder (see [template and naming conventions](https://github.com/sastoudt/reading-for-humanness/blob/main/template.md))
 - [ ] populate README.md with table of contents
 - [ ] Add a Markdown file per piece in the collection to that new folder (see [template and naming conventions](https://github.com/sastoudt/reading-for-humanness/blob/main/template.md))

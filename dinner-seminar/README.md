@@ -1,0 +1,172 @@
+## Tentative Reading List - Spring 2026
+
+### Week 1
+
+[Empathy Hour](https://slate.com/technology/2022/03/empathy-hour-matt-bell-short-story.html) by Matt Bell (2022)
+
+Optional follow-up reading: [Home Sweet NewHome](https://www.amacad.org/daedalus/home-sweet-newhome) by Matt Bell (2025)
+
+### Week 2
+
+[Is compassion fatigue inevitable in an age of 24-hour news?](https://www.theguardian.com/news/2018/aug/02/is-compassion-fatigue-inevitable-in-an-age-of-24-hour-news) by Elisa Gabbert (2018)
+
+### Week 3
+
+[The Blindfold](https://www.lightspeedmagazine.com/fiction/the-blindfold/) by Tobias S. Buckell (2022)
+
+in [A People's Future of the United States](https://www.penguinrandomhouse.com/books/561572/a-peoples-future-of-the-united-states-by-edited-by-victor-lavalle-and-john-joseph-adams/) (2019)
+
+### Week 4
+
+[A Death Sentence: Native Americans Shut Out of the Nation’s Liver Transplant System](https://themarkup.org/organ-failure/2024/02/08/a-death-sentence-native-americans-shut-out-of-the-nations-liver-transplant-system) by Annie Gilbertson and Ben Tanen (2024)
+
+[How We Investigated Racial Disparities in Liver Transplants](https://themarkup.org/show-your-work/2024/02/08/how-we-investigated-racial-disparities-in-liver-transplants) by Annie Gilbertson and Ben Tanen (2024)
+
+### Week 5
+
+[Racial fictions, biological facts: Expanding the sociological imagination through speculative methods](https://catalystjournal.org/index.php/catalyst/article/view/28798/21398) by Ruja Benjamin (2016)
+
+### Week 6
+
+[The New Artificial Intelligentsia](https://lareviewofbooks.org/article/the-new-artificial-intelligentsia/) by Ruja Benjamin (2024)
+
+### Week 7
+
+[An Age of Hyperabundance](https://www.nplusonemag.com/issue-47/essays/an-age-of-hyperabundance/) by Laura Preston (2024)
+
+### Week 8
+
+*Spring Break*
+
+### Week 9
+
+Choose your own adventure: [Kernel Magazine](https://www.kernelmag.io/)
+
+Feel free to pick something from any issue.
+
+### Week 10
+
+[Affordances](https://slate.com/technology/2019/10/affordances-cory-doctorow-sf-story-algorithmic-bias-facial-recognition.html) by Cory Doctorow (2019)
+
+[A Powerhouse Writer Found One Word to Change the Debate About Tech](https://www.nytimes.com/2025/10/05/books/review/cory-doctorow-enshittification.html) by Joseph Bernstein (2025)
+
+### Week 11
+
+[The Book of Martha](https://www.sevenstories.com/blogs/102-an-exclusive-short-story-from-octavia-butler-in-celebration-of-her-birthday) by Octavia Butler (2003)
+
+[A Few Rules For Predicting The Future](https://commongood.cc/reader/a-few-rules-for-predicting-the-future-by-octavia-e-butler/) by Octavia Butler (2000)
+
+### Week 12
+
+Choose your own adventure from [Octavia's Brood: Science Fiction Stories from Social Justice Movements](https://ebookcentral.proquest.com/lib/bucknell/detail.action?docID=1996052) (2015) 
+
+### Week 13
+
+[The Tunnel Under the World](https://www.gutenberg.org/files/31979/31979-h/31979-h.htm) by Frederik Pohl (1955)
+
+[This, but Again](https://slate.com/technology/2022/06/this-but-again-david-iserson-short-story.html) by David Iserson (2022)
+
+
+### Week 14
+
+[Algorithm America](https://countercraft.substack.com/p/algorithm-america-a-short-story) by Lincoln Michel (2023)
+
++ pick something from [Lincoln Michel's substack](https://countercraft.substack.com/archive?sort=new) that interests you
+
+### Week 15
+
+Choose your own adventure: Data Science by Design's [Our Environment](https://datasciencebydesign.org/book-2) (2023)
+
+
+## Tentative Reading List - Fall 2025
+
+### Week 1
+
+[The Future is a Click Away](https://bombmagazine.org/articles/2022/11/21/the-future-is-a-click-away/) by Allegra Hyde (2022)
+
+in [The Last Catastrophe](https://www.penguinrandomhouse.com/books/688126/the-last-catastrophe-by-allegra-hyde/) (2023) 
+
+see companion playlist [here](https://largeheartedboy.com/2023/04/10/allegra-hydes-playlist-for-her-story-collection-the-last-catastrophe/)
+
+If you like this, check out [Labor Pains](https://harpers.org/archive/2023/07/dear-employee-allegra-hyde/) by Allegra Hyde (2023).
+
+### Week 2
+
+Pick 2 of the 3 by Ted Chiang:
+
+[What's Expected of Us](https://bucknell.on.worldcat.org/oclc/208398205) (2005)
+
+[The Great Silence](http://supercommunity.e-flux.com/authors/ted-chiang/) (2015) ...go behind the scenes [here](https://www.youtube.com/watch?v=Y7rkojpnwOE)
+
+[Exhalation](https://www.lightspeedmagazine.com/fiction/exhalation/) (2008)
+
+### Week 3
+
+[Life Is More Than an Engineering Problem](https://lareviewofbooks.org/article/life-is-more-than-an-engineering-problem/) Julien Crockett interviews Ted Chiang (2025)
+
+[Why AI Isn't Going to Make Art](https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art) by Ted Chiang (2024)
+
+### Week 4
+
+[Ghosts](https://www.thebeliever.net/ghosts/) by Vauhini Vara (2021)
+
+[Confessions of a Viral AI Writer](https://www.wired.com/story/confessions-viral-ai-writer-chatgpt/) by Vauhini Vara (2023)
+
+Optional: [My Decade in Google Searches](https://www.nytimes.com/interactive/2019/12/27/opinion/sunday/decade-google-search.html) by Vauhini Vara (2019)
+
+### Week 5
+
+[Your Future Inbox](https://joinreboot.org/p/your-future-inbox) by Lila Schroff (2023)
+
+[Sasha Stiles on Philosophy, Technelegy, and the Future of Literature](https://www.artxcode.io/journal/sasha-stiles-on-philosophy-technelegy-and-the-future-of-literature)  Interview with Sasha Stiles (2023)
+
+### Week 6
+
+[HUMAN_FALLBACK](https://www.nplusonemag.com/issue-44/essays/human_fallback/) by Laura Preston (2023)
+
+### Week 7
+
+Choose your own adventure: contribute to GitHub or do some creative writing
+
+Prep: get GitHub account setup and watch training video [here](https://drive.google.com/file/d/1-OGjb-DnBHuu8GW8xqRiv_3FlRxnOvo2/view?usp=sharing) OR read at least two things from the latest issue of [The Dodge](https://www.thedodgemag.com/) and fill out the usual Google Form
+
+If you are doing the creative writing option, go [here](https://sastoudt.shinyapps.io/eco_data_driven_detail/) to explore and respond to at least two different writing prompts during class.
+
+### Week 8
+
+*Fall Break*
+
+### Week 9
+
+Choose your own adventure: [Logic Magazine](https://logicmag.io/#issues)
+
+### Week 10
+
+[Franchise](https://www.astro.sunysb.edu/fwalter/HON301/franchise.pdf) by Isaac Asimov (1955)
+
+### Week 11
+
+[The Markup](https://themarkup.org/) Reading Guide
+
+- Make a copy of the reading guide by clicking [here](https://docs.google.com/document/d/1_8PuoZk235ZF3iGlBovfZu4cvXIsbXcQGwGi5_SvcEs/copy) and share it with me (make sure I have editing privileges). 
+- Before class complete the "Do this first!" and "Before you read" sections of the reading guide.
+- Then read the article associated with the reading guide [here](https://themarkup.org/machine-learning/2023/04/27/false-alarm-how-wisconsin-uses-race-and-income-to-label-students-high-risk )
+- Then we'll work through more of the reading guide in class.
+
+### Week 12
+
+[Dream Factory](https://clarkesworldmagazine.com/egan_04_22/) by Greg Egan (2022)
+
+### Week 13
+
+[The Ghosts in the Machine](https://harpers.org/archive/2025/01/the-ghosts-in-the-machine-liz-pelly-spotify-musicians/) by Liz Pelly
+
+### Week 14
+
+*Thanksgiving Break*
+
+### Week 15
+
+Choose your own adventure: Data Science by Design's [Future of Data Science](https://datasciencebydesign.org/book) (2022)
+
+
